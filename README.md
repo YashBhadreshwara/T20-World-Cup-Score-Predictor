@@ -34,3 +34,9 @@ The system processes match features and provides real-time score predictions thr
 - Input current score, overs, wickets
 - Predict final score instantly
 - Visual insights and match analytics
+
+---
+
+![Project Demo](1719258317880.jpeg)
+
+
